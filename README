@@ -1,0 +1,10 @@
+Calcul
+======
+A programming language syntax written in ANTLR.
+I wrote it for fun. It is a typeless language.
+What's missing is:
+- A way to call functions from objects
+- Static stuff
+
+This is in the public domain, so it is free to use
+and sell.
